@@ -6,4 +6,4 @@ def solution(input_from_question):
     new_list=input_from_question.split(',')
     for _ in new_list:
         
-    
+        ...
