@@ -7,7 +7,7 @@ print(list)
 for _ in range(n):
 	if int(list[_]) == k:
 		total+=1
-	
+
 	
 
 print(total) 
