@@ -1,4 +1,4 @@
-import sys #this lines imports sys library
+## retorna a diferença entre dois planos de saude para 98 funcionarios
 input_from_question=int(input()) #Gets the Input
 
 def solution(input_from_question):
