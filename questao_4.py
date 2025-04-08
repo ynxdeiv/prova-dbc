@@ -1,7 +1,5 @@
 input_from_question = '3,6,9,15'
 
-
-
 new_list= input_from_question.split(",")
 int_list=[]
 max_dif = 0
@@ -16,6 +14,8 @@ if len(int_list)>2:
         
         if sub >max_dif:
             max_dif=sub
+            
 print(max_dif)
+
     
 
